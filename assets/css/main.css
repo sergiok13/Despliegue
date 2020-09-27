@@ -61,7 +61,7 @@ mark {
 }
 
 input::-moz-focus-inner {
-	border: 0;
+	border: 10;
 	padding: 0;
 }
 
@@ -85,7 +85,7 @@ input, select, textarea {
 	@media screen and (max-width: 480px) {
 
 		html, body {
-			min-width: 320px;
+			min-width: 325px;
 		}
 
 	}

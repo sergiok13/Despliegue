@@ -6,6 +6,8 @@ Modifico el README
 
 En el nuevo proyecto
 Dos veces
+
+Y desde Github
 Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
 Took things in a slightly different direction with this one, partly to mess with CSS
 grid (which this one relies on pretty heavily) but mostly to get back to making weirder
